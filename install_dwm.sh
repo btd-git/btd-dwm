@@ -1,4 +1,8 @@
 !#/usr/bin/bash
+cd 
+clear
+echo "Happy DWMing"
+sleep 3
 mkdir -p ~/Downloads/suckless_tools/
 mkdir -p ~/.local/src/
 mkdir -p ~/.local/bin/
