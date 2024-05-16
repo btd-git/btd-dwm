@@ -67,4 +67,4 @@ while true; do
 done
 sudo make clean install
 cd ..
-
+cd
