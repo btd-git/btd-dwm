@@ -68,4 +68,5 @@ done
 sudo make clean install
 cd
 sudo pacman --noconfirm -S xorg-xrandr xwallpaper xcompmgr python-pywal xdotool sddm 
+# INSTALL ANY AUR HELPER [YAY,PARU,PICAUR]
 yay -S sddm-sugar-candy-git
