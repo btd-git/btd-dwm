@@ -67,4 +67,4 @@ while true; do
 done
 sudo make clean install
 cd
-sudo pacman --noconfirm -S xorg-xrandr xwallpaper xcompmgr python-pywal
+sudo pacman --noconfirm -S xorg-xrandr xwallpaper xcompmgr python-pywal xdotool
