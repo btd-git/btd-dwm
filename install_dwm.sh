@@ -1,7 +1,7 @@
-!#/usr/bin/bash
+#!/usr/bin/bash
 cd 
 clear
-echo "Happy DWMing"
+echo "Copy Cat Progress ON"
 sleep 3
 mkdir -p ~/Downloads/suckless_tools/
 mkdir -p ~/.local/src/
@@ -66,5 +66,4 @@ while true; do
     esac
 done
 sudo make clean install
-cd ..
 cd
