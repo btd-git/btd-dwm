@@ -67,4 +67,5 @@ while true; do
 done
 sudo make clean install
 cd
-sudo pacman --noconfirm -S xorg-xrandr xwallpaper xcompmgr python-pywal xdotool
+sudo pacman --noconfirm -S xorg-xrandr xwallpaper xcompmgr python-pywal xdotool sddm 
+yay -S sddm-sugar-candy-git
