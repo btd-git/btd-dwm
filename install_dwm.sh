@@ -70,3 +70,9 @@ cd
 sudo pacman --noconfirm -S xorg-xrandr xwallpaper xcompmgr python-pywal xdotool sddm 
 # INSTALL ANY AUR HELPER [YAY,PARU,PICAUR]
 yay -S sddm-sugar-candy-git
+cd
+clear
+sleep 3
+cp /*/*/ ~/.local/bin/
+cd ~/.local/bin/
+chmod +x dwm-session.sh
