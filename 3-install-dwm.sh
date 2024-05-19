@@ -1,7 +1,4 @@
 #!/usr/bin/bash
-clear
-cd ~/btd-dwm/
-sudo chmod +x *
 source 1-packages.sh
 ./1-packages.sh
 sleep 3
