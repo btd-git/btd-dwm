@@ -1,5 +1,6 @@
 #!/usr/bin/bash
 clear
+source ~/btd-dwm/1-packages.sh
 sleep 3
 mkdir -p ~/Downloads/suckless_tools/
 mkdir -p ~/.local/src/
