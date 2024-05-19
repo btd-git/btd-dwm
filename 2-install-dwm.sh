@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 clear
-source ~/btd-dwm/1-packages.sh
 cd ~/btd-dwm/
 sudo chmod +x *
+source 1-packages.sh
 ./1-packages.sh
 sleep 3
 mkdir -p ~/Downloads/suckless_tools/
