@@ -1,7 +1,5 @@
 #!/usr/bin/bash
-cd 
 clear
-echo "Copy Cat Progress ON"
 sleep 3
 mkdir -p ~/Downloads/suckless_tools/
 mkdir -p ~/.local/src/
